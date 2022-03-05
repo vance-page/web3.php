@@ -1,14 +1,9 @@
 {
-    "name": "sc0vu/web3.php",
+    "name": "vance-page/web3.php",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "sc0Vu",
-            "email": "alk03073135@gmail.com"
-        }
-    ],
+    
     "require": {
         "guzzlehttp/guzzle": "^6.3|^7.0",
         "PHP": "^7.1",
